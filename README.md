@@ -31,6 +31,15 @@ to the database for reference.
 
 ![saved_filesINDB](https://github.com/user-attachments/assets/e832e922-fc10-4bf3-920e-a54704e60aca)
 
+>Deployement
+*backend deployed on render and frontend on netlify and working fine*
+
+![render_deploy](https://github.com/user-attachments/assets/679618ce-2fa9-45ff-b9c5-329589dab0bc)
+
+![backend site](https://github.com/user-attachments/assets/86281ae9-73a7-4ca5-a3d7-5556a9d66481)
+
+![netlifyupload](https://github.com/user-attachments/assets/6b91d655-74fc-40db-9a17-005a6bf86bf3)
+
 >Future Scope
 
 As i got busy and got little time to work, its UI is not that promising, this needs to 
