@@ -73,6 +73,11 @@ const upload = multer({
 //     },
 // });
 
+// to check for render
+app.get('/', (req,res) => {
+    res.send("Express on Render")
+})
+
 //route middlewares
 app.use('/api', userRoute)
 
