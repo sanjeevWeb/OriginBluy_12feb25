@@ -1,4 +1,4 @@
->Project Title: Media Capture and Storage Web Application
+## Project Title: Media Capture and Storage Web Application
 
 In this application a user can upload images, pdf and videos (not exceeding 10 MB in size)
 and view that in his dashboard.This is a part of assignment for MERN developer given by 
